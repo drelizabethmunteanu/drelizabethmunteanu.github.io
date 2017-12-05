@@ -1,0 +1,12 @@
+body { margin: 0 0 0 0; background: #FAF4DF  }
+
+div { font-size: 13px; font-family: Arial, Helvetica, sans-serif; }
+td { font-size: 13px; font-family: Arial, Helvetica, sans-serif; }
+p { font-size: 13px; font-family: Arial, Helvetica, sans-serif; }
+
+a { text-decoration: none; font-weight: bold }
+
+p.titlu { margin: 4px 3px 5px 3px; }
+a.footer { color: #fff; font-weight: 12px }
+
+.spacer { height: 7px; font-size: 6px }
